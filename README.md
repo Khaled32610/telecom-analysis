@@ -10,10 +10,10 @@ This project focuses on analyzing telecom customer data to understand churn rate
 * **Data Visualization:** Matplotlib, Seaborn
 
 ## 📂 Project Structure
-* `day7_pandas_eda.py`: Initial data exploration, handling missing values, and answering business questions using Pandas.
-* `day8_data_cleaning_scaling.py`: Data preprocessing, One-Hot Encoding, and feature scaling.
-* `day9_kmeans_elbow.py`: Finding the optimal number of clusters (K) using the Elbow Method and Silhouette Score, plus 2D PCA visualization.
-* `day10_cluster_profiling.py`: Generating a Seaborn heatmap to profile each cluster and extract business strategies.
+* `pandas_eda.py`: Initial data exploration, handling missing values, and answering business questions using Pandas.
+* `data_cleaning_scaling.py`: Data preprocessing, One-Hot Encoding, and feature scaling.
+* `kmeans_elbow.py`: Finding the optimal number of clusters (K) using the Elbow Method and Silhouette Score, plus 2D PCA visualization.
+* `cluster_profiling.py`: Generating a Seaborn heatmap to profile each cluster and extract business strategies.
 * `data/`: Contains the raw and cleaned CSV datasets.
 * `outputs/`: Contains generated visualizations (e.g., `cluster_heatmap.png`).
 
